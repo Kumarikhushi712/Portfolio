@@ -5,14 +5,14 @@ const navLinks = [
   { label: "Skills", link: "#Skills" },
   { label: "Projects", link: "#Projects" },
   { label: "Contact", link: "#Contact" },
-  { label: "CV", link: "./docs/Sheel_Resume.pdf" },
+  { label: "CV", link: "./docs/khushi cv.pdf" },
 ];
 
 export function Header() {
   return (
     <header className="header">
       <figure className="navBar__logo navBar__logo--desktop svg__logo">
-        <img src="./logos/logo_letters.svg" alt="Logo" />
+        {/* <img src="./logos/logo_letters.svg" alt="Logo" /> */}
       </figure>
       <nav className="navBar navBar--desktop">
         {navLinks.map((link, index) => (
