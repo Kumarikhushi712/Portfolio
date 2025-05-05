@@ -204,8 +204,8 @@ function App() {
             <Project
               img="./imgs/projects/Old-portfolio.png"
               project="Portfolio"
-              repo="https://github.com/sheelganvir/Portfolio"
-              live="https://sheelganvir.github.io/Portfolio/"
+              repo="https://github.com/Kumarikhushi712/Portfolio"
+              live=""
             />
             
             
