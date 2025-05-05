@@ -9,7 +9,7 @@ Welcome to my frontend portfolio repository! This project showcases my skills an
   - [UI/UX Design](#uiux-design)
   - [Sections](#sections)
   - [Features](#features)
-- [Additional Information](#additional-information)
+
 
 ## Technology Stack
 - **Frontend:** React, CSS (custom styles using reset.css, style.css, and animations.css)
