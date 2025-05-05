@@ -1,4 +1,4 @@
-# Sheel-Portfolio
+# Khushi-Portfolio
 
 Welcome to my frontend portfolio repository! This project showcases my skills and projects as a MERN-stack developer. It features a responsive design with light and dark theme options.
 
@@ -53,8 +53,3 @@ The portfolio is structured as follows:
 - **Google Fonts Integration:** Uses Roboto font for typography.
 - **Favicon:** Custom favicon for brand recognition in browser tabs.
 
-## Additional Information
-- Author: Sheel Ganvir
-- License: MIT
-- Repository: https://github.com/sheelganvir/Sheel-Portfolio
-- Issues: Report Issues
