@@ -51,5 +51,4 @@ The portfolio is structured as follows:
 ### Features
 - **Responsive Design:** Ensures usability on various screen sizes.
 - **Google Fonts Integration:** Uses Roboto font for typography.
-- **Favicon:** Custom favicon for brand recognition in browser tabs.
 
